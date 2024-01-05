@@ -46,7 +46,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Live Website Preview : <a href="https://spicy-pricey-food-delivery.vercel.app/" target="_blank">https://spicy-pricey-food-delivery.vercel.app/</a>
+- Live Website Preview : <a href="https://just-food-food-delivery-app.vercel.app/" target="_blank">https://just-food-food-delivery-app.vercel.app/</a>
 
 ## ⭐️ Show your support <a name="support"></a>
 
